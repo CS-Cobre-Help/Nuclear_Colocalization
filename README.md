@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/983030988.svg)](https://doi.org/10.5281/zenodo.15465658)
+
 # **Pixel Intensity Distributions & Colocalization Results**
 
 This pipeline performs **segmentation of nuclei**, **quantification of PCNA-GFP colocalization**, and **statistical comparisons** across multiple sample conditions. Results include correlation metrics, pixel distributions, annotated visualizations, and representative nucleus overlays.
